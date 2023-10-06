@@ -1,0 +1,1 @@
+Este projeto é uma aplicação de console em C# desenvolvida com o propósito de aprimorar as habilidades lógicas na linguagem, seguindo o paradigma orientado a objetos. A aplicação foi criada para exercitar conceitos fundamentais de programação, como controle de fluxo, estruturas de dados, manipulação de objetos e princípios de orientação a objetos.
